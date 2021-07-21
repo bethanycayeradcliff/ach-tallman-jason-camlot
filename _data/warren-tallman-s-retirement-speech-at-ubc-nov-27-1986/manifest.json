@@ -23,6 +23,14 @@
         "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/canvas",
         "type": "Canvas",
         "duration": 2833.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/canvas/pause_click_transitions.json",
+            "label": "Pause_Click_Transitions"
+          }
+        ],
         "items": [
           {
             "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/paintings",
