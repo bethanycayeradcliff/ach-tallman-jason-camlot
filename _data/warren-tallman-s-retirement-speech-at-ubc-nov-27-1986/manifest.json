@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Warren Tallman’s Retirement Speech at UBC Nov 27, 1986" ] },
+    "homepage": [
+      {
+        "id": "https://spokenweb.ca",
+        "type": "Text",
+        "label": { "en": [ "Warren Tallman’s Retirement Speech at UBC Nov 27, 1986" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://spokenweb.ca",
+        "type": "Agent",
+        "label": { "en": [ "SpokenWeb" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2833.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://spokenweb.ca/wp-content/uploads/2021/06/01-Retirement-Speech-copy.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 2833.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/ach-tallman-jason-camlot/warren-tallman-s-retirement-speech-at-ubc-nov-27-1986/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
